@@ -1,5 +1,4 @@
-# Java & Related Concepts 
-![java banner](https://user-images.githubusercontent.com/2780145/109359092-dcda4e80-78aa-11eb-894b-935336d29af1.png)
+# JAVA NOTES
 
 **This Repo contains Notes and Programs on following topics :**
 - *Java Fundamentals*
@@ -11,12 +10,9 @@
 - *Design Patterns in Java*
 - *Data Structures in Java*
 - *Algorithms in Java*
-- *Kotlin - Modern JVM Language*
-- *Android Development (Kotlin)*
-- *Android Libraries (Kotlin)*
-- *Unit Testing in Java/Kotlin*
+- *Unit Testing in Java*
 
-![quote2](https://user-images.githubusercontent.com/2780145/109364626-334c8a80-78b5-11eb-9d20-70d056b66377.png)
+
 ## [1] Java - Fundamentals & OOPS [Done]
 ### NOTES [Useful Info] :
 
@@ -94,7 +90,7 @@
 .
 
 ## [4] Java - Threads, Concurrency & Concurrent Collections [WIP]
-![threads](https://user-images.githubusercontent.com/2780145/109363422-8cff8580-78b2-11eb-83c3-77151011e4d1.png)
+
 ### NOTES [Useful Info] :
 *[-> Java Multithreading & Garbage Collection](_notes_java/java_multithreading)*
 
@@ -110,7 +106,7 @@
 .
 
 ## [5] Java - Software Design [WIP]
-![software design](https://user-images.githubusercontent.com/2780145/109359203-0c895680-78ab-11eb-8347-f5efb39f086c.png)
+
 ### NOTES [Useful Info] :
 *[-> Design Patterns & Examples in JDK](_notes_others/design_patterns_intro)*
 
@@ -135,7 +131,7 @@
 .
 
 ## [6] Java - Data Structures & Algorithms [WIP]
-![algo coding](https://user-images.githubusercontent.com/2780145/109364614-2f206d00-78b5-11eb-8752-e28a8cf67f16.png)
+
 
 ### NOTES [Useful Info] :
 *[-> Common Data Structures](_notes_others/ds)*
@@ -171,129 +167,17 @@
 
 .
 
-## [2023] Kotlin - Modern JVM Language [WIP]
-![kotlin](https://user-images.githubusercontent.com/2780145/109118724-b06ae900-7769-11eb-8693-58862cb69ac5.png)
-- *Fastest growing language in Guthub & among the most loved acc. to StackOverflow survey*
-- *Cross-platform, General-purpose, Concise, Safe & fully interoperable with Java*
-- *Primary Official language for Native Android Development since 2019*
-- *Officially supported by Spring Framework, JetBrains Ktor, Eclipse Vert.x (server-side dev)*
 
-### NOTES [Useful Info] :
-*[-> Kotlin Funadamentals and OOP](_notes_kotlin/kotlin_basics)*
-
-*[-> Data Structures in Kotlin](_programs_java/kotlin_algorithms/src/main/algo)*
-
-*[-> Design Patterns in Kotlin](_programs_java/kotlin_designpatterns/patterns/src/test/kotlin)*
-
-*[-> Kotlin Overview, Features & Multi-platform Support](_notes_kotlin/kotlin_overview)*
-
-*[-> Java to Kotlin CheatSheets](_notes_kotlin/kotlin_java_cheatsheets)*
-
-### PROGRAMS :
-#### Basic Syntax Programs
-
-#### Collections
-
-#### Coroutines
-
-#### Serialization
-
-#### Standard Library
-
-#### Kotlin for Android
-
-.
-
-## [2023] Android Development (Core Components) [WIP]
-![android](https://user-images.githubusercontent.com/2780145/109120489-05a7fa00-776c-11eb-912e-f539d25a5c56.png)
-- *There are 3.6 billion+ active Android devices across 190+ countries*
-- *Every year, Google Play users worldwide download more than 100 billion mobile apps*
-- *Native Apps have better performance, security, access to device hardware and software*
-- *Native apps tends to have less bugs, gets latest features first and run smoother*
-
-### NOTES [Useful Info] :
-*-> UI Basics - XML layouts, views, event handlers*
-
-*-> Activity*
-
-*-> Fragment*
-
-*-> Recycler View - display scrolling list data using adapter pattern*
-
-*-> Intent*
-
-*-> Broadcast Receiver*
-
-*-> Content Provider*
-
-.
-
-## [2023] Android Development (Java & Android Libraries) [WIP]
-![android libraries](https://github.com/Suryakant-Bharti/Important-Java-Concepts/assets/2780145/da6e7738-1920-4fc0-b147-705c5c4b6c3e)
-
-### NOTES [Useful Info] :
-
-*[-> Retrofit](_notes_others/android_retrofit) - type-safe HTTP client for Java & Android*
-
-*[-> Glide](_notes_others/android_glide) - efficient image loading lib with media decoding, memory & disk caching*
-
-*[-> RoomDB](_notes_others/android_roomdb) - ORM based SQLite wrapper for fluent db access*
-
-*[-> WorkManager](_notes_others/android_workmanager) - schedule deferrable, asynchronous tasks*
-
-*-> ViewModel - store & and manage UI-related data in lifecycle-aware way*
-
-*-> LiveData - lifecycle-aware observable data holder, ootb data binding support*
-
-*-> DataBinding - bind UI components to data sources in declarative way*
-
-*-> RxJava - asynchronous, event-based programs using observable sequences*
-
-*-> Dagger - static, compile-time dependency injection framework*
-
-*-> JUnit - developer-side testing on the JVM (unit testing framework)*
-
-*-> Mockito - mocking objects in unit tests (test doubling framework)
-
-.
-
-## Relation of Java and Others Languages
-### NOTES [Useful Info] :
-*[-> Comparisons between C, C++, C# and Java Language](_notes_others/cplusplus)*
-
-*[-> CheatSheet | C# for Java Developers](_notes_others/csharp)*
-
-*[-> Java and Python](_notes_others/python)*
-
-.
-
-## Extras
-### NOTES :
-*[[USEFUL INFO - Good Java & Computer Science Books for Reference]](_notes_others/books)*
-
-*[[USEFUL INFO - Great Websites for Learning Java & Computer Science]](_notes_others/websites)*
-
-.
 
 **NOTE :**
 
-    I will keep adding more important codes to this Repo throughout 2023. 
-Happy Learning! :smiley:
+    I will keep adding more important codes to this Repo throughout 2025 
 
-.
 
-**REFERENCES :**
+   Happy Learning
 
-    This repository contains some codes and images from other authors.
-    Used for "Nonprofit Educational Purpose".
-    References are listed in the above link for Books & Websites.
-Thanks to those authors! :thumbsup:
 
 .
 
 
-<img src = "https://user-images.githubusercontent.com/2780145/34364478-7f0ef056-eaac-11e7-912a-c03fc4ab4743.png" align = "left" width = "28">
-<img src = "https://user-images.githubusercontent.com/2780145/34364478-7f0ef056-eaac-11e7-912a-c03fc4ab4743.png" align = "left" width = "28">
-<img src = "https://user-images.githubusercontent.com/2780145/34364478-7f0ef056-eaac-11e7-912a-c03fc4ab4743.png" align = "right" width = "28">
-<img src = "https://user-images.githubusercontent.com/2780145/34364478-7f0ef056-eaac-11e7-912a-c03fc4ab4743.png" align = "right" width = "28">
-<div align="center"><b>...THE END...</b></div>
+...THE END...
