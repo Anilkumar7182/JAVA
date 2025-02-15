@@ -4,6 +4,16 @@ Object-Oriented Programming is a methodology or paradigm to design a program usi
 
 ## Data Types in Java
 
+Data type is a basically use to define the type of data.
+
+***data-type are 2 type:-*** 
+   1. Premitive data-type 
+  2. Non-Premitive data type
+
+          Premitive data type:- {byte,short,int,long,float,double,boolean,char}
+
+          Non-premitive data type:- {class,interface,enum,ennatation}
+
 <table class="alt"> 
 <tbody><tr> 
   <th id="table_dvpt_datatype"><strong>Data Type</strong></th> 
@@ -59,6 +69,16 @@ NOTE : UTF-8 is the most popular unicode character encoding with 90% websites us
 ![data type promotion small](https://user-images.githubusercontent.com/2780145/34364362-403e9db4-eaab-11e7-914b-7acc9007cf41.png)
 
 ## Wrapper Classes in Java
+
+-> Java is a Object Oriented Programming Language
+
+-> In java we can represent everything in the form of Object
+
+-> To represent primitive types data in object format java provided Wrapper classes
+
+-> For every primitive type corresponding Wrapper class is available
+
+-> All wrapper classes are part of java.lang package
 
 <table class="alt">
 <tbody><tr><th>Primitive Type</th><th>Wrapper class</th></tr>
@@ -140,7 +160,24 @@ NOTE : UTF-8 is the most popular unicode character encoding with 90% websites us
 <br>e.g. RED, YELLOW, MAX_PRIORITY etc.</td></tr>
 </tbody></table>
 
-## Object vs Class
+## Object And Class
+
+Data type is a basically use to define the type of data.
+
+data-type are 2 type:- 1. Premitive data-type 2. Non-Premitive data type
+
+          Premitive data type:- {byte,short,int,long,float,double,boolean,char}
+
+          Non-premitive data type:- {class,interface,enum,ennatation}
+
+
+**class:-**   it is user define datatype . 
+
+-> class is keyword and java.lang.Class is a Class .  
+  
+-> main use of class create(define) a category. class only one time load.
+
+***Object:-***  object is a memory allocation which store their corresponding .class file info. gets there memory inside heap .works on Dynamic memory Allocation
 
 <table class="alt">
 <tbody><tr><th>Object</th><th>Class</th></tr>
